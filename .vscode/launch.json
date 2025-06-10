@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TransactionsApplication<transactions>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.systemsai.transactions.TransactionsApplication",
+      "projectName": "transactions",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-PaymentAuthorizationsApplication<payment-authorizations>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.systemsai.payment_authorizations.PaymentAuthorizationsApplication",
+      "projectName": "payment-authorizations",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

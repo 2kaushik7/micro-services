@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "maven.terminal.favorites": [
+      {
+        "command": "clean install -DskipTests",
+        "debug": false
+      },
+      {
+        "command": "spring-boot:run",
+        "debug": false
+      }
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.view": "hierarchical"
+  }
+}
