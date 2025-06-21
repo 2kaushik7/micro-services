@@ -16,6 +16,7 @@
       }
     ],
     "java.configuration.updateBuildConfiguration": "interactive",
-    "maven.view": "hierarchical"
+    "maven.view": "hierarchical",
+    "java.compile.nullAnalysis.mode": "automatic"
   }
 }
